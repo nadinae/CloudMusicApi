@@ -1,10 +1,12 @@
-# 网易云音乐 API
+# 接口说明
 
 网易云音乐 Node.js API service
 
-## 环境要求
+网易云api是网上一位大神工具网易云获取的，数据都是真实的网易云数据
 
-需要 NodeJS 8.12+ 环境
+原地址为<a href="https://binaryify.github.io/NeteaseCloudMusicApi/#/">https://binaryify.github.io/NeteaseCloudMusicApi/#/</a>
+
+
 
 ## 安装
 
